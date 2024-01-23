@@ -2,6 +2,7 @@
   "name": "ziswapp/utilization-module",
   "description": "Utilization ziswapp module",
   "type": "laravel-module",
+  "license": "MIT",
   "authors": [
     {
       "name": "Nuradiyana",
