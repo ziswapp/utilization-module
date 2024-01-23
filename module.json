@@ -1,0 +1,11 @@
+{
+  "name": "Utilization",
+  "alias": "utilization",
+  "description": "Utilization ziswapp module",
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+    "Modules\\Utilization\\Providers\\UtilizationServiceProvider"
+  ],
+  "files": []
+}

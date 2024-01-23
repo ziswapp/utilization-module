@@ -1,0 +1,23 @@
+{
+  "name": "ziswapp/utilization-module",
+  "description": "Utilization ziswapp module",
+  "type": "laravel-module",
+  "authors": [
+    {
+      "name": "Nuradiyana",
+      "email": "me@nooradiana.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Modules\\Utilization\\Providers\\UtilizationServiceProvider"
+      ]
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Modules\\Utilization\\": ""
+    }
+  }
+}
